@@ -149,7 +149,7 @@ void mergeSort(int arr[], int l, int r) {
 
     else {
 
-        //m: the mid point 
+        //m: the midpoint 
         int m = l  + (r - l) / 2;
 
 
