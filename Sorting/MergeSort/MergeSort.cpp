@@ -64,8 +64,8 @@ void merge(int arr[], int l, int m, int r) {
     /*
     * input arguments:
     * # arr[]: the array we need to be sorted
-    * # p: the index of the first element in the array
-    * # q: the index of the middle element in the array
+    * # l: the index of the first element in the array
+    * # m: the index of the middle element in the array
     * # r: the index of the last element int the array
     *
     */
