@@ -80,7 +80,7 @@ void merge(int arr[], int l, int m, int r) {
 
     for (int i = 0; i < sizeOne; i++) {
 
-        left[i] = arr[i];
+        left[i] = arr[l + i];
 
     }
     for (int i = 0; i < sizeTwo; i++) {
